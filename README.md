@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sypanchal1810&label=Profile%20views&color=0e75b6&style=flat" alt="sypanchal1810" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sypanchal1810" alt="sypanchal1810" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sypanchal1810" alt="sypanchal1810" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/sypanchal1810" target="blank"><img src="https://img.shields.io/twitter/follow/sypanchal1810?logo=twitter&style=for-the-badge" alt="sypanchal1810" /></a> </p>
 
