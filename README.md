@@ -30,7 +30,7 @@ BLOG-POST-LIST:START
 <p align="left">
 <a href="https://twitter.com/sypanchal1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sypanchal1810" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sypanchal1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sypanchal1810" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabh_panchal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_panchal18" height="30" width="40" /></a>
+<a href="https://instagram.com/sypanchal1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_panchal18" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sypanchal1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sypanchal1810" height="30" width="40" /></a>
 <a href="https://medium.com/@sypanchal1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sypanchal1810" height="30" width="40" /></a>
 
